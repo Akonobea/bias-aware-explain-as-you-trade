@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+lightgbm
+shap
+ta
+textblob
+matplotlib
+seaborn
+streamlit
+plotly
