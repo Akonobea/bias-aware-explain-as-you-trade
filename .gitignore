@@ -1,0 +1,26 @@
+# Environment variables and secrets
+.env
+.env.*
+credentials/
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.parquet
+
+# Trained models
+*.pkl
+*.joblib
+
+# Operating system
+.DS_Store
+Thumbs.db
